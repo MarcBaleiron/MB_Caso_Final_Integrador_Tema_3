@@ -7,8 +7,8 @@ using namespace std;
 // Implementacion de los colores
 struct ColorConsole
 {
-    static constexpr auto fg_blue = "\033[34m";   // Azul
-    static constexpr auto reset = "\033[0m";      // Resetear color
+    static constexpr auto fg_blue = "\033[34m";
+    static constexpr auto reset = "\033[0m";
 };
 
 
