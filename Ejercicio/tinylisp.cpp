@@ -11,7 +11,6 @@ struct ColorConsole
     static constexpr auto reset = "\033[0m";
 };
 
-
 // Implementacion de la clase ConsoleBox
 struct ConsoleBox
 {
@@ -59,7 +58,6 @@ void load_script (const char* filename, bool show_script)
         // Simular cargar el texto en un editor
         consoleBox -> new_text ();
         consoleBox -> set_text (script);
-
     }
     catch (...)
     {
