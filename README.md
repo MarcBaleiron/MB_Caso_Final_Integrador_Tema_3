@@ -21,7 +21,6 @@ Para manejar estos y otros errores potenciales, es posible que desees agregar co
 
 
 # 3. Corrije el ejercicio de tu compañero y sub tu valoración a tu readme
-
 Notas
 Este ejercicio no requiere el uso de funciones seguras específicas de Microsoft (las funciones con sufijo _s). En cambio, deberías usar las funciones estándar de C/C++ disponibles en todas las plataformas y compiladores, como fopen, printf y scanf.
 
@@ -39,7 +38,27 @@ El código tiene un manejo de errores sólido y completo para el caso de que se 
 
 
 # Pautas finales
-
 Este código debería compilar y funcionar en CLion sin necesidad de agregar la directiva _CRT_SECURE_NO_WARNINGS, ya que no se están utilizando las versiones seguras específicas de Microsoft de las funciones de la biblioteca estándar de C.
 
 Por último, ten en cuenta que este código no realiza una comprobación completa de errores y no es robusto contra varios tipos de errores de entrada. Dependiendo de tu caso de uso específico, es posible que desees agregar comprobaciones de errores adicionales y manejar los fallos de manera más sofisticada.
+
+
+
+# Correción del código de Leo Seguín Sánchez
+## Readme: 
+Toda la información del ejercicio está presente y organizada correctamente, pudiendo entender el objetivo del mismo.
+El Readme.md está espléndidamente organizado.
+
+## Código General:
+El código cumple con todo lo pedido en el enunciado.
+Se manejan los posibles errores de una manera adecuada mediante el uso de try y catch.
+El código está magníficamente comentado, explicando cada parte del código de manera detellada.
+
+## Código Específico:
+finalintegrador.h define correctamente las funciones.
+finalintegrador.cpp usa correctamente las dos variantes de load_script(), tanto la que hace uso de la entrada del usuario como la que hace uso de valores predeterminados.
+main.cpp es calro y conciso, llamando coreectamente a la función.
+
+## Conclusión
+El código se ha completado de manera precisa, completando todas las tareas requeridas excelentemente.
+No es necesario el hacer nungún cambio en el código.
