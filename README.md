@@ -47,18 +47,24 @@ Por último, ten en cuenta que este código no realiza una comprobación complet
 # Correción del código de Leo Seguín Sánchez
 ## Readme: 
 Toda la información del ejercicio está presente y organizada correctamente, pudiendo entender el objetivo del mismo.
+
 El Readme.md está espléndidamente organizado.
 
 ## Código General:
 El código cumple con todo lo pedido en el enunciado.
+
 Se manejan los posibles errores de una manera adecuada mediante el uso de try y catch.
+
 El código está magníficamente comentado, explicando cada parte del código de manera detellada.
 
 ## Código Específico:
 finalintegrador.h define correctamente las funciones.
+
 finalintegrador.cpp usa correctamente las dos variantes de load_script(), tanto la que hace uso de la entrada del usuario como la que hace uso de valores predeterminados.
+
 main.cpp es calro y conciso, llamando coreectamente a la función.
 
 ## Conclusión
 El código se ha completado de manera precisa, completando todas las tareas requeridas excelentemente.
+
 No es necesario el hacer nungún cambio en el código.
